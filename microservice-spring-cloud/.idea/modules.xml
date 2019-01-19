@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-spring-cloud.iml" filepath="$PROJECT_DIR$/microservice-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroservice-consumer-movie/mircroservice-consumer-movie.iml" filepath="$PROJECT_DIR$/mircroservice-consumer-movie/mircroservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircroservice-provider-user/mircroservice-provider-user.iml" filepath="$PROJECT_DIR$/mircroservice-provider-user/mircroservice-provider-user.iml" />
+    </modules>
+  </component>
+</project>

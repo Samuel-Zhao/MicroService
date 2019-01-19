@@ -1,0 +1,8 @@
+CREATE TABLE user(
+  id INT NOT NULL AUTO_INCREMENT,
+  username VARCHAR(40),
+  name VARCHAR(20),
+  age INT(3),
+  balance FLOAT(10,2),
+  PRIMARY KEY (id)
+)ENGINE=INNODB DEFAULT CHARSET = UTF8;
